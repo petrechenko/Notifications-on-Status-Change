@@ -1,7 +1,7 @@
 # Notifications-on-Status-Change
 This small App connects Slack or Twilio using Zapier to DayBack Online Calendar. It will send a notification to your phone or Slackbot every time there is a change on the Event Status. Here is how it's gonna look like in Slack:
 
-
+![alt text](https://github.com/petrechenko/Notifications-on-Status-Change/blob/master/images/Screen%20Shot%202019-01-31%20at%2011.29.24.png)
 
 Instractions on getting started using Twilio:
 
